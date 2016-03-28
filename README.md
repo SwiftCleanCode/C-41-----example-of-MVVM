@@ -1,3 +1,8 @@
+本例子使用了ReactiveCocoa
+
+需要改进之处：获取数据的逻辑写在了ViewModel中，ViewModel变的复杂，应该单独拿出来
+
+====
 C-41
 ====
 
